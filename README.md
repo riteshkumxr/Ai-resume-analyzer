@@ -1,4 +1,5 @@
-AI Resume Analyzer
+AI Resume Analyzer.
+
 Build this project step by step with our detailed tutorial on JavaScript Mastery YouTube. Join the JSM family!
 📋 Table of Contents
 ✨ Introduction
@@ -64,11 +65,7 @@ Make sure you have the following installed on your machine:
 
 Git
 Node.js
-npm (Node Package Manager)
-Cloning the Repository
-
-git clone https://github.com/adrianhajdin/ai-resume-analyzer.git
-cd ai-resume-analyzer
+npm 
 Installation
 
 Install the project dependencies using npm:
